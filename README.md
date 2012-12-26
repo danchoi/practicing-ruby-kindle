@@ -28,4 +28,4 @@ The code to generate this Kindle version is open-source and located
 
 ### Known issues
 
-* iframes and images need to be fixed.
+* iframes on the web version are not displayed in the Kindle edition.
