@@ -21,3 +21,7 @@ The code to generate this Kindle version is open-source and located
 ---
 
 [Download MOBI](https://github.com/danchoi/practicing-ruby-kindle/raw/master/practicing-ruby-2012-12-26.mobi)
+
+### Known issues
+
+* iframes and images need to be fixed.
