@@ -5,18 +5,16 @@ Brown's excellent [Practicing Ruby](https://practicingruby.com/) series.
 
 ---
 
-### Table of contents
-
 ![toc](https://raw.github.com/danchoi/practicing-ruby-kindle/master/screens/toc-sm.png)
 
 ---
-
-### Article on duck-typing
 
 ![duck](https://raw.github.com/danchoi/practicing-ruby-kindle/master/screens/duck-sm.png)
 
 ---
 
-### Article on closures
-
 ![closure](https://raw.github.com/danchoi/practicing-ruby-kindle/master/screens/closure-sm.png)
+
+---
+
+[Download MOBI](https://github.com/danchoi/practicing-ruby-kindle/raw/master/practicing-ruby-2012-12-26.mobi)
