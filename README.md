@@ -3,6 +3,9 @@
 This is an experimental Kindle edition of the first 3 volumes of Gregory
 Brown's excellent [Practicing Ruby](https://practicingruby.com/) series.
 
+The code to generate this Kindle version is open-source and located
+[here](https://github.com/danchoi/practicing-ruby-manuscripts/tree/master/kindle).
+
 ---
 
 ![toc](https://raw.github.com/danchoi/practicing-ruby-kindle/master/screens/toc-sm.png)
