@@ -12,15 +12,11 @@ The code to generate this Kindle version is open-source and located
 
 ---
 
-![duck](https://raw.github.com/danchoi/practicing-ruby-kindle/master/screens/duck-sm.png)
+![duck](https://raw.github.com/danchoi/practicing-ruby-kindle/master/screens/method-sm.png)
 
 ---
 
-![closure](https://raw.github.com/danchoi/practicing-ruby-kindle/master/screens/closure-sm.png)
-
----
-
-![whiteboard](https://raw.github.com/danchoi/practicing-ruby-kindle/master/screens/whiteboard-sm.png)
+![closure](https://raw.github.com/danchoi/practicing-ruby-kindle/master/screens/games-sm.png)
 
 ---
 
