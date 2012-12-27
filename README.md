@@ -16,7 +16,7 @@ The code to generate this Kindle version is open-source and located
 
 ---
 
-![closure](https://raw.github.com/danchoi/practicing-ruby-kindle/master/screens/games-sm.png)
+![closure](https://raw.github.com/danchoi/practicing-ruby-kindle/master/screens/game-sm.png)
 
 ---
 
